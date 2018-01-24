@@ -1,0 +1,2 @@
+tensor_size = [8000000,1280000,3200,1280000,3200,];
+tensor_name = {'Model/embedding:0','Model/RNN/multi_rnn_cell/cell_0/basic_lstm_cell/kernel:0','Model/RNN/multi_rnn_cell/cell_0/basic_lstm_cell/bias:0','Model/RNN/multi_rnn_cell/cell_1/basic_lstm_cell/kernel:0','Model/RNN/multi_rnn_cell/cell_1/basic_lstm_cell/bias:0',};
